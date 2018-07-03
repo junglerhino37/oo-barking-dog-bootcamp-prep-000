@@ -18,4 +18,4 @@ end
 
 rex=Dog.new
 rex.name="rec"
-rex.name
+puts rex.name
