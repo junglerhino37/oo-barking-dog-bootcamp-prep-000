@@ -7,7 +7,7 @@ class Dog
     @name=name
  end
  
-  def bark(nabarkme)
+  def bark(bark)
     @bark=bark
  end
  
