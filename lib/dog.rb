@@ -13,3 +13,7 @@ class Dog
  
  
 end
+
+rex=Dog.new
+rex.name="rec"
+rex.name
